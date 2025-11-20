@@ -27,23 +27,33 @@ Here you'll find:
 
 🔸 String manipulation
 
-🔸 Calculations (IMC/BMI, comparisons, etc.)
+🔸 Calculations (BMI, comparisons, basic math)
 
 🔸 Error handling with try/except
 
+🔸 Loops (while/for)
+
+🔸 Simple CLI tools (like a basic calculator)
+
+🔸 Character frequency analysis
+
 🔸 And more as the journey continues...
 
-Each script is written in a straightforward way—exactly how I would code it during my learning process.
+Each script is written in a straightforward way — exactly how I would code it during my learning process.
 ```
-📂 Project Structure
-
-Python Learning Journey/
+📂 Python Learning Journey/
 │
 ├── 01_basic_info.py
 ├── 02_bmi_calculation.py
 ├── 03_value_comparison.py
 ├── 04_name_analysis.py
 ├── 05_even_or_odd.py
-├── ...
+├── 06_time_greeting.py
+├── 07_first_name_length.py
+├── 08_name_stylizer.py
+├── 09_interactive_calculator.py
+├── 10_most_frequent_character.py
+│
 └── README.md
+
 ```
