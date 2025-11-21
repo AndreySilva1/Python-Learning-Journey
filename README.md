@@ -33,9 +33,17 @@ Here you'll find:
 
 🔸 Loops (while/for)
 
-🔸 Simple CLI tools (like a basic calculator)
+🔸 Simple CLI tools (calculator, shopping list, etc.)
 
 🔸 Character frequency analysis
+
+🔸 List iteration and indexing
+
+🔸 Mini word-guessing game
+
+🔸 CPF digit calculation and validation
+
+🔸 Function creation practice (*args, even/odd checker)
 
 🔸 And more as the journey continues...
 
@@ -53,7 +61,11 @@ Each script is written in a straightforward way — exactly how I would code it 
 ├── 08_name_stylizer.py
 ├── 09_interactive_calculator.py
 ├── 10_most_frequent_character.py
+├── 11_secret_word_game.py
+├── 12_list_index_iteration.py
+├── 13_shopping_list_manager.py
+├── 14_cpf_digit_validator.py
+├── 15_function_utilities.py
 │
 └── README.md
-
 ```
