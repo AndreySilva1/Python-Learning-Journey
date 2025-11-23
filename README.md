@@ -45,6 +45,14 @@ Here you'll find:
 
 🔸 Function creation practice (*args, even/odd checker)
 
+🔸 Closures and function factories
+
+🔸 Multiple-choice quiz game
+
+🔸 Duplicate number detector
+
+🔸 Product list manager (sorting + price update)
+
 🔸 And more as the journey continues...
 
 Each script is written in a straightforward way — exactly how I would code it during my learning process.
@@ -66,6 +74,11 @@ Each script is written in a straightforward way — exactly how I would code it 
 ├── 13_shopping_list_manager.py
 ├── 14_cpf_digit_validator.py
 ├── 15_function_utilities.py
+├── 16_multiplier_closure.py
+├── 17_multiple_choice_quiz.py
+├── 18_first_duplicate_detector.py
+├── 19_product_manager.py
+├── 20_operation_closure_factory.py
 │
 └── README.md
 ```
