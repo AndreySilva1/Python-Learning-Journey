@@ -53,9 +53,13 @@ Here you'll find:
 
 🔸 Product list manager (sorting + price update)
 
+🔸 List zipper (pairing elements from two lists)
+
+🔸 List summation using shortest and longest list logic
+
 🔸 And more as the journey continues...
 
-Each script is written in a straightforward way — exactly how I would code it during my learning process.
+Each script is written in a straightforward, practical way — exactly how I would code it during my learning process.
 ```
 📂 Python Learning Journey/
 │
@@ -79,6 +83,8 @@ Each script is written in a straightforward way — exactly how I would code it 
 ├── 18_first_duplicate_detector.py
 ├── 19_product_manager.py
 ├── 20_operation_closure_factory.py
+├── 21_zipper_list_merge.py
+├── 22_partial_list_sum.py
 │
 └── README.md
 ```
